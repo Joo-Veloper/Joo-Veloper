@@ -24,11 +24,9 @@
  
 <h1 align="center"> 💌 Contact me 💌 </h1>
   <p align="center">
-   <a href="psjoo3515@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjoo3515@gmail.com"/>
-    <a href="https://grow-story.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-        
-   </a>
+   <a href="psjoo3515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjoo3515@gmail.com"/></a>
+    <a href="https://grow-story.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
+  
 
 
 <br/>
