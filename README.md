@@ -20,7 +20,7 @@
 
  <br />
  
-<h3 align="center"> 💌 Contact me 💌 </h3>
+<h1 align="center"> 💌 Contact me 💌 </h1>
   <p align="center">
    <a href="psjoo3515@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjoo3515@gmail.com"
