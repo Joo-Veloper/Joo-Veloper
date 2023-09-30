@@ -2,7 +2,7 @@
    
   ![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
-# 👋👋 Hi there 👋👋
+# 👋👋 HELLO 👋👋
 
 <h1 align = "center">🛠skill set🛠<h1/>
 <div>
