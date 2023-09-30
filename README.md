@@ -14,7 +14,7 @@
  
 
 
-<h1 align = "center"> 💻Frameworks & DB💻</h1>
+<h5 align = "center"> 💻Frameworks & DB💻</h5>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -22,7 +22,7 @@
 
 
  
-<h1 align="center"> ✉️ Contact me ✉️ </h1>
+<h5 align="center"> ✉️ Contact me ✉️ </h5>
   <p align="center">
    <a href="psjoo3515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjoo3515@gmail.com"/></a>
     <a href="https://grow-story.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
