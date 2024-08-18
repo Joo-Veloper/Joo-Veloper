@@ -1,4 +1,4 @@
-8<div align="center" bgcolor="black">
+<div align="center" bgcolor="black">
    
   ![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
