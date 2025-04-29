@@ -4,6 +4,10 @@
 
 # 👋 HELLO 👋
 
+![Problem Solver & Backend Engineer](https://typograssy.deno.dev/api?text=Problem%20Solver%20&%20Backend%20Engineer&l0=202b38&l1=631c02&l2=bd561d&l3=fa7a17&l4=fddf67&bg=000000&frame=3d3d3d)
+
+
+
 <h1 align = "center">🛠skill set🛠<h1/>
 <div>
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
