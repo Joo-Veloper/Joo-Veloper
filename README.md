@@ -34,14 +34,16 @@
   
 </div>  
 
-
+<div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Joo-Veloper&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Joo-Veloper?pet-id=724515992165256526"
-    width="250"
+    width="120"
     height="120"
   />
 </a>
+</div>
+  
   
 <!--    <a href="psjoo3515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjoo3515@gmail.com"/></a> -->
 
